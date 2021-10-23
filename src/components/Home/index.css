@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.Home-Container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.Home-image {
+  width: 25%;
+}
+.Home-heading {
+  color: #12022f;
+  font-size: 50px;
+}

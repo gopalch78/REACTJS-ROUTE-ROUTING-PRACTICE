@@ -1,0 +1,63 @@
+/* Write your CSS code here */
+.Nav-Header {
+  height: 20vh;
+  display: flex;
+  flex: row;
+  justify-content: center;
+}
+.Blog-Container {
+  display: flex;
+
+  justify-content: center;
+  flex-direction: row;
+}
+.Nav-menu {
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.Wave-image {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+.Wave-heading {
+  color: #12022f;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.Home {
+  color: #12022f;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
+.About {
+  color: #12022f;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
+.Contact {
+  color: #12022f;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
+.li-Home {
+  margin-right: 20px;
+}
+.li-About {
+  margin-right: 20px;
+}
+.li-Contact {
+  margin-right: 20px;
+}
+.li-image {
+  display: flex;
+  flex-direction: row;
+  margin-right: 100px;
+}
